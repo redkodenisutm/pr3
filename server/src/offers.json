@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "company": "AMDRS",
+    "role": "Software Engineer",
+    "published": "2022-05-10",
+    "location": "Chisinau, strada",
+    "requirements": "React, Nest, Typescript, Prisma, SQL, Git, Webpack, Docker, Jest",
+    "salary": "2500 EUR",
+    "viewed": 0
+  },
+  {
+    "id": "2d91b926-f290-4be4-bea4-01336375e128",
+    "company": "14dcd7d0-121e-41e9-96ec-56781e5280d5",
+    "role": "Data Analyst",
+    "published": "2022-05-15",
+    "location": "Chisinau, Centru",
+    "requirements": "React/React Native Developer",
+    "salary": "3000 EUR"
+  },
+  {
+    "id": "c8287bc5-d06f-4522-ae1d-db29c230a0a0",
+    "company": "14dcd7d0-121e-41e9-96ec-56781e5280d5",
+    "role": "Data Analyst",
+    "published": "2022-05-15",
+    "location": "Chisinau, Centru",
+    "requirements": "React/React Native Developer",
+    "salary": "3000 EUR"
+  },
+  {
+    "id": "3f078cfc-a03b-4832-8528-f0754d410cb6",
+    "company": "14dcd7d0-121e-41e9-96ec-56781e5280d5",
+    "role": "Data Analyst",
+    "published": "2022-05-15",
+    "location": "Chisinau, Centru",
+    "requirements": "React/React Native Developer",
+    "salary": "3000 EUR"
+  }
+]
